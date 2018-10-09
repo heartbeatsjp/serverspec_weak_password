@@ -71,6 +71,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/heartb
 2. `git checkout master`
 3. rewrite `lib/serverspec_weak_password/version.rb`
 4. append changes to `CHANGELOG.md`
-5. `git push`
-6. git tag
-7. `git push --tags`
+5. `git commit`
+6. `git push`
+7. git tag
+8. `git push --tags`
