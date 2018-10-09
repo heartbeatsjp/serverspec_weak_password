@@ -64,3 +64,13 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/heartbeatsjp/serverspec_weak_password.
+
+# Release howto
+
+1. `git checkout master && git pull`
+2. `git checkout master`
+3. rewrite `lib/serverspec_weak_password/version.rb`
+4. append changes to `CHANGELOG.md`
+5. `git push`
+6. git tag
+7. `git push --tags`
