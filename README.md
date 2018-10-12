@@ -25,7 +25,7 @@ This gem generates weak password's hash.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'serverspec_weak_password', :git => 'git@github.com:heartbeatsjp/serverspec_weak_password.git'
+gem 'serverspec_weak_password', git: 'https://github.com/heartbeatsjp/serverspec_weak_password.git'
 ```
 
 After we put gem to rubygems (planed)...
