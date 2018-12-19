@@ -7,6 +7,7 @@ module ServerspecWeakPassword
     
     # https://en.wikipedia.org/wiki/List_of_the_most_common_passwords
     WEAK_PASSWORDS = [
+      '!@#$%^&*',
       '000000',
       '111111',
       '121212',
@@ -20,8 +21,10 @@ module ServerspecWeakPassword
       '1234567890',
       '1qaz2wsx',
       '654321',
+      '666666',
       '696969',
       'Football',
+      'aa123456',
       'abc123',
       'access',
       'admin',
@@ -31,6 +34,8 @@ module ServerspecWeakPassword
       'bailey',
       'baseball',
       'batman',
+      'charlie',
+      'donald',
       'dragon',
       'flower',
       'football',
@@ -54,6 +59,7 @@ module ServerspecWeakPassword
       'princess',
       'qazwsx',
       'qwerty',
+      'qwerty123',
       'qwertyuiop',
       'shadow',
       'solo',
